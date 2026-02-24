@@ -7,4 +7,8 @@ tracks changes
 versions update: 2026-02-23
 changed 2026-02-23 17:00
 
+<<<<<<< Updated upstream
 fix bug issue101
+=======
+save by stash for bug fixing
+>>>>>>> Stashed changes
